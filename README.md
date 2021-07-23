@@ -5,7 +5,8 @@ This file is a guide to the artifact evaluation for MODELS 2021.
 The artifact is the replication package for the paper _Collaborative Model-Driven Software Engineering: A Systematic Update_. The full dataset including raw data, ETL scripts, and analysis scripts produced during the study are available.
 
 ## How to obtain the artifact?
-This artifact is openly available from its [GitHub repository](https://github.com/S2-group/models-2021-replication-package).
+This artifact is openly available from https://zenodo.org/record/5128416.
+DOI: 10.5281/zenodo.5128416.
 
 ## Contents
 The README file of the replication package contains up-to-date information about the contents of the package. For convenience, we provide the contents below as well.
